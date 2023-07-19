@@ -1,0 +1,19 @@
+João Pedro Meurer Dias - a2461110
+
+Obs: As colocações finais não são baseadas no saldo de gol, meu plano era fazer uma função que
+     recebe 3 parametros, a pillha eliminados, um vetor de strings(dos times eiminados nas fases) e um vetor
+     de inteiros com os saldos de gols mutiplicados por "-1", ai eu iria fazer um copia do vetor 
+     de inteiros original e ordenar ele, ai iria comparar com original e dar popp na string que esta 
+     na mesma posição do seu saldo no vetor original. Não fiz por 2 motivos, não sei se funcionaria
+     com o numeros de times com chaveamento errado(ex: 6, 10, 12) e porque eu teria que mudar o meu 
+     codigo pra dar certo esse chaveamento.
+
+
+Não usei o strcpy pois quando eu usava não funcionava.
+
+Um bug que não consegui arrumar é qe o fortalaze sempre ganha de 1x0 do cuiaba no exemplo passado no 
+enunciado.
+
+Esse save.c é o trabalho que eu tinha feito sem o vetor de pilhas, e ja que durante as 2 semanas
+de descanço eu usei pra fazer decidi enviar como bonús.(Mesmo o sorteio ficando com ordem errada).
+

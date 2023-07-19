@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1667155690 source:c:\users\jp\desktop\copa\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"FilaEstatica.h"
+	"PilhaEstatica.h"
+
+1666819754 c:\users\jp\desktop\copa\filaestatica.h
+	"FilaEstatica.c"
+
+1666739704 c:\users\jp\desktop\copa\filaestatica.c
+	<stdio.h>
+	<string.h>
+
+1666908161 c:\users\jp\desktop\copa\pilhaestatica.h
+	"PilhaEstatica.c"
+
+1666908161 c:\users\jp\desktop\copa\pilhaestatica.c
+	<stdio.h>
+	<string.h>
+
+1667325014 source:c:\users\jp\documents\program\2p\1ntregar\copa\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"FilaEstatica.h"
+	"PilhaEstatica.h"
+
+1667180937 c:\users\jp\documents\program\2p\1ntregar\copa\filaestatica.h
+	"FilaEstatica.c"
+
+1666739704 c:\users\jp\documents\program\2p\1ntregar\copa\filaestatica.c
+	<stdio.h>
+	<string.h>
+
+1666908161 c:\users\jp\documents\program\2p\1ntregar\copa\pilhaestatica.h
+	"PilhaEstatica.c"
+
+1666908161 c:\users\jp\documents\program\2p\1ntregar\copa\pilhaestatica.c
+	<stdio.h>
+	<string.h>
+
